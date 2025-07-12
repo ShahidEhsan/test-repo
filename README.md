@@ -1,3 +1,3 @@
 # test-repo
 
-***********************************This is  created only for the test purpose.***********************************
+***********************************This file is  created for the test purpose only.***********************************
